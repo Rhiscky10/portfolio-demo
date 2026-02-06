@@ -12,7 +12,7 @@ return (
 </div>
 <div className="about-content">
 <div className="about-image">
-<img src="/images/2.jpg" alt="Kofi Osei-Okyere" className="profile-image" />
+<img src={process.env.PUBLIC_URL + '/images/me.jpg'} alt="Kofi Osei-Okyere" className="profile-image" />
 </div>
 <div className="about-text">
 <h3>Hello! I'm Kofi Osei-Okyere</h3>

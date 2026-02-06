@@ -16,7 +16,7 @@ function Projects() {
           {/* Project 1 */}
           <div className="project-card featured">
             <img
-              src="/images/3.png"
+              src={process.env.PUBLIC_URL + '/images/3.png'}
               alt="E-Commerce Platform"
               className="hala"
               width="450px"
@@ -58,7 +58,7 @@ function Projects() {
           {/* Project 2 */}
           <div className="project-card featured">
             <img
-              src="/images/4.png"
+              src={process.env.PUBLIC_URL + '/images/4.png'}
               alt="Health & Wellness Tracker"
               className="hala"
               width="500px"
@@ -97,7 +97,7 @@ function Projects() {
           {/* Project 3 */}
           <div className="project-card">
             <img
-              src="/images/5.png"
+              src={process.env.PUBLIC_URL + '/images/5.png'}
               alt="Student Time Manager"
               className="hala"
               width="450px"
@@ -135,7 +135,7 @@ function Projects() {
           {/* Project 4 */}
           <div className="project-card featured">
             <img
-              src="/images/6.png"
+              src={process.env.PUBLIC_URL + '/images/6.png'}
               alt="PharmaFind"
               className="hala"
               width="300px"
@@ -177,7 +177,7 @@ function Projects() {
           {/* Project 5 */}
           <div className="project-card">
             <img
-              src="/images/8.png"
+              src={process.env.PUBLIC_URL + '/images/8.png'}
               alt="Portfolio Website"
               className="hala"
               width="400px"
@@ -219,7 +219,7 @@ function Projects() {
           {/* Project 6 */}
           <div className="project-card">
             <img
-              src="/images/7.png"
+              src={process.env.PUBLIC_URL + '/images/7.png'}
               alt="Study Planner"
               className="hala"
               width="400px"
