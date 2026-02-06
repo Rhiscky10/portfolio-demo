@@ -1,7 +1,22 @@
-# Getting Started with Create React App
+Portfolio React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive portfolio website built with React.
+Showcases projects, skills, and contact information with a sleek UI.
 
+Features
+Fully responsive design for mobile and desktop
+Contact form integrated with Formspree
+ for direct messages
+
+Project showcase with interactive cards
+
+Social media links for GitHub, LinkedIn, and Twitter
+
+Built with React, HTML5, CSS3, and JavaScript
+
+Smooth animations and modern UI/UX design
+
+Troubleshooting: link
 ## Available Scripts
 
 In the project directory, you can run:
