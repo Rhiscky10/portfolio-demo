@@ -205,7 +205,7 @@ function Projects() {
                   <i className="fab fa-github"></i> Code
                 </a>
                 <a
-                  href="http://127.0.0.1:5500/index.html"
+                  href="https://rhiscky10.github.io/portfolio-demo/"
                   className="btn btn-primary btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
