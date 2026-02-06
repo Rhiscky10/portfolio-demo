@@ -75,7 +75,7 @@ function Projects() {
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/Rhiscky10"
+                  href="https://github.com/Rhiscky10/health-tracker-app"
                   className="btn btn-outline btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
