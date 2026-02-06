@@ -7,16 +7,12 @@ Features
 Fully responsive design for mobile and desktop
 Contact form integrated with Formspree
  for direct messages
-
 Project showcase with interactive cards
-
 Social media links for GitHub, LinkedIn, and Twitter
-
 Built with React, HTML5, CSS3, and JavaScript
-
 Smooth animations and modern UI/UX design
 
-Troubleshooting: link
+
 ## Available Scripts
 
 In the project directory, you can run:
