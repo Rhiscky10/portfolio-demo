@@ -36,11 +36,14 @@ function Hero() {
             </button>
             <button className="btn btn-secondary">
               <a
-                href="/cv.pdf"
-                download="Kofi-Osei-Okyere-CV.pdf"
-                style={{ color: "inherit", textDecoration: "none" }}
-              >
-                <i className="fas fa-download"></i> Download CV
+                href={`${process.env.PUBLIC_URL}/cv.pdf`}
+                  download="Kofi-Osei-Okyere-CV.pdf"
+                  className="btn btn-secondary"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ color: "inherit", textDecoration: "none" }}
+                  >
+             <i className="fas fa-download"></i> Download CV
               </a>
             </button>
           </div>

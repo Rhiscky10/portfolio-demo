@@ -75,7 +75,7 @@ function Projects() {
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/Rhiscky10/health-tracker-app"
+                  href="https://github.com/Rhiscky10/wellness/"
                   className="btn btn-outline btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -83,7 +83,7 @@ function Projects() {
                   <i className="fab fa-github"></i> Code
                 </a>
                 <a
-                  href="#"
+                  href="https://rhiscky10.github.io/wellness/"
                   className="btn btn-primary btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -136,26 +136,25 @@ function Projects() {
           <div className="project-card featured">
             <img
               src={process.env.PUBLIC_URL + '/images/6.png'}
-              alt="PharmaFind"
+              alt="Farm-Health-Advisor"
               className="hala"
-              width="300px"
+              width="100%"
               height="auto"
             />
             <div className="project-content">
-              <h3>PharmaFind</h3>
+              <h3>Farm-Health-Advisor</h3>
               <p>
-                A new project where anyone can find Pharmacies around the places
-                they live making it easy to get medications from their homes.
+                Vision AI that enables farmers to upload images of crops or livestock and receive structured, intelligent disease analysis in seconds.
+
               </p>
               <div className="project-tech">
-                <span className="tech-tag">HTML/CSS</span>
-                <span className="tech-tag">JavaScript</span>
                 <span className="tech-tag">React.js</span>
-                <span className="tech-tag">Google Places API</span>
+                <span className="tech-tag">Google Gemini API</span>
+                <span className="tech-tag">Supabase</span>
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/Rhiscky10"
+                  href="https://github.com/Rhiscky10/Farm-Health-Advisor-Main"
                   className="btn btn-outline btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -163,7 +162,7 @@ function Projects() {
                   <i className="fab fa-github"></i> Code
                 </a>
                 <a
-                  href="#"
+                  href="https://farm-health-advisor-main.vercel.app"
                   className="btn btn-primary btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
