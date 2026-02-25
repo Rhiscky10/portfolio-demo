@@ -98,14 +98,14 @@ function Projects() {
           <div className="project-card">
             <img
               src={process.env.PUBLIC_URL + '/images/5.png'}
-              alt="Student Time Manager"
+              alt="Stock Pulse"
               className="hala"
               width="450px"
               height="auto"
             />
             <div className="project-content">
-              <h3>Student Time Manager</h3>
-              <p>Stay organized and manage your academic life effectively</p>
+              <h3>Stock Pulse</h3>
+              <p>An inventory management system for tracking stock levels and sales data in real-time.</p>
               <div className="project-tech">
                 <span className="tech-tag">HTML/CSS</span>
                 <span className="tech-tag">JavaScript</span>
@@ -113,7 +113,7 @@ function Projects() {
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/Rhiscky10"
+                  href="https://github.com/Rhiscky10/insightful-inventory-main"
                   className="btn btn-outline btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -225,21 +225,19 @@ function Projects() {
               height="auto"
             />
             <div className="project-content">
-              <h3>Study Planner</h3>
+              <h3>EcoWaste</h3>
               <p>
-                Study Planner is a web application designed to help students
-                organize their study schedules, manage tasks, and track academic
-                goals.
+                EcoWaste is a modern e-waste management web application designed to help communities track and manage electronic waste collection efficiently.
               </p>
               <div className="project-tech">
                 <span className="tech-tag">HTML/CSS</span>
                 <span className="tech-tag">JavaScript</span>
                 <span className="tech-tag">React.js</span>
-                <span className="tech-tag">MongoDB</span>
+                <span className="tech-tag">Supabase</span>
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/Rhiscky10"
+                  href="https://github.com/Rhiscky10/re-cycle-one"
                   className="btn btn-outline btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -247,7 +245,7 @@ function Projects() {
                   <i className="fab fa-github"></i> Code
                 </a>
                 <a
-                  href="#"
+                  href="https://re-cycle-one.vercel.app/"
                   className="btn btn-primary btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
