@@ -19,7 +19,7 @@ function Projects() {
               src={process.env.PUBLIC_URL + '/images/3.png'}
               alt="E-Commerce Platform"
               className="hala"
-              width="450px"
+              width="100%"
               height="auto"
             />
             <div className="project-content">
@@ -36,7 +36,7 @@ function Projects() {
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/Rhiscky10/SHOP/blob/main/adidas_home_page.html"
+                  href="https://rhiscky10.github.io/adidas-shop/"
                   className="btn btn-outline btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -44,7 +44,7 @@ function Projects() {
                   <i className="fab fa-github"></i> Code
                 </a>
                 <a
-                  href="https://rhisckyshop.created.app"
+                  href="https://rhiscky10.github.io/adidas-shop/"
                   className="btn btn-primary btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
