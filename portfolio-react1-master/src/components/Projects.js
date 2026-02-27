@@ -36,7 +36,7 @@ function Projects() {
               </div>
               <div className="project-links">
                 <a
-                  href="https://rhiscky10.github.io/adidas-shop/"
+                  href="https://github.com/Rhiscky10/adidas-shop"
                   className="btn btn-outline btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -113,7 +113,7 @@ function Projects() {
               </div>
               <div className="project-links">
                 <a
-                  href="https://github.com/Rhiscky10/insightful-inventory-main"
+                  href="https://github.com/Rhiscky10/stock-pulse"
                   className="btn btn-outline btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -121,7 +121,7 @@ function Projects() {
                   <i className="fab fa-github"></i> Code
                 </a>
                 <a
-                  href="#"
+                  href="https://stock-pulse-eight.vercel.app/"
                   className="btn btn-primary btn-sm"
                   target="_blank"
                   rel="noopener noreferrer"
